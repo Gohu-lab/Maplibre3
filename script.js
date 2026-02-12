@@ -9,8 +9,8 @@ var map = new maplibregl.Map({
     "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json", // Fond de carte
   customAttribution:
     '<a href="https://sites-formations.univ-rennes2.fr/mastersigat/"target="_blank">Master SIGAT</a>',
-  center: [-1.68, 48.11], // lat/long
-  zoom: 11.5, // zoom
+  center: [-1.6349596099566015,48.16325429206934], // lat/long
+  zoom: 14, // zoom
   pitch: 0, // Inclinaison
   bearing: -10, // Rotation
   minZoom: 11
